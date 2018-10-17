@@ -1,37 +1,60 @@
-1-Welcome
-2-Python standard library introduction
+1- Intro - ok
+2- Sintax Básica:
+       Numeros - ok
+       Identificadores - ok
+       Palavras reservadas - ok
+       Blocos de indentação - ok
+       Comentários - ok
+       Variáveis em Python - ok
+       Strings ok
+       Listas ok
+       Tuplas ok
+       Dicionários ok
+       Sets - ok
+       Operadores Básicos:
+            Booleanos ok
+            Comparação ok
+            Atribuição ok
+            Associação ok
+            Identidade ok
+       Estruturas de decisão com if, elif e else - ok
+       Estruturas de repetição usando while e for - ok
+       Controle de fluxo - break, continue e pass - ok
 3-Python Built-in's:
-    Logical operators
-    Comparison Operators
-    Calculating length
-    Range and list
-    Min and Max
-    Round, abs, pow
-    Sorted function
-    type function
+        A função dir() - ok
+        As funções range() e list() - ok
+        Verificando o tipo com type() - ok
+        Calculando com comprimento length() - ok
+        As funções min() and max() - ok
+        round(), abs() e  pow() - ok
+        Ordenando com  a função sorted() - ok
+        A função isinstance() - ok
+        Operadores Lógicos
+        Operadores de comparação
+
 
 4-Math
-    trigonometry,ceiling,floor and constants
-    factorial, square root and CGD
-    random
-    calculating statistics with Python
-    iterators with itertools: infinite processes
-    iterators with itertools: permutations and combinations
+        Trigonometria, teto ceil(), piso floor() e constantes - ok
+        Fatorial, Raiz Quadrada e Maximo Divisor Comum(CGD)
+        Números aleatórios random() - ok
+        Estística básica (Média, Mediana e Moda)
+            statistics.mean()
+            statistics.median()
+            statistics.mode()
+            statistics.variance()
 
 5-Input and Output
-    command line arguments
-    in out
-    files
-    file seeking in Python
-    iterative files
-    tempfiles
-    manipulate zip files in Python
+        Lendo dados do teclado com input()
+        Lendo dados externos
+            open()
+            read()
+            write()
+            readline()
+            posicionando o cursor no inicio com a função seek()
+        Manipulando arquivos compactados zip
 
-6- Date&Time, HTML parsing and HTTP
-    Getting current time
-    formatting date and time
-    calculating future time
-    create a timer with Python time
-    Python HTML parser
-    text wrap module
-    Python HTTP package, urllib and JSON
+6- Date&Time
+    Obtendo data atual
+    Formatando datas
+    Calculando datas futuras com timedelta() e calendar()
+    Criando um timer com função time.sleep()
