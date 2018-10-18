@@ -5,7 +5,8 @@ Apresentação da Bilioteca padrão Python 3  para Unifebe -Brusque/SC 2018
 
 [JCAVI Treinamentos em T.I. - Florianópolis /SC](http://www.jcavitreinamentos.com.br/)
 
-por **Fabio Classo[Perfil LinkedIn](https://www.linkedin.com/in/fabio-reis-classo-46881425/)
+por **Fabio Classo**
+[Perfil LinkedIn](https://www.linkedin.com/in/fabio-reis-classo-46881425/)
 
 Índice: 
 -------
