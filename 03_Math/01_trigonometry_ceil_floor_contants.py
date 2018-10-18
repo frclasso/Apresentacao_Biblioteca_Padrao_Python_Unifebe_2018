@@ -7,9 +7,6 @@ import math
 
 print(math.pi)
 print(math.e)
-print(math.nan) # Not a number
-print(math.inf)
-print(-math.inf)
 
 
 # Trigonometry
@@ -20,8 +17,11 @@ print(math.sin(math.pi / 4))
 
 # Ceiling and Floor
 
-cookies = 10.7
-print(math.ceil(cookies))
+print('math ceil(45.17):', math.ceil(45.17))
+print('math ceil(100.2):', math.ceil(100.2))
+print('math ceil(100.72):', math.ceil(100.72))
 
-age = 48.9
-print(math.floor(age))
+print()
+print('math floor(45.17):', math.floor(45.3))
+print('math floor(100.2):', math.floor(100.2))
+print('math floor(100.72):', math.floor(100.72))

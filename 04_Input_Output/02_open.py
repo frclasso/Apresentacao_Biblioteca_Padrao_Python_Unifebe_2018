@@ -3,6 +3,9 @@
 
 def main():
     f = open('lines.txt', 'r')
+    # print(f"Nome do arquivo: {f.name}")
+    # print(f"Modo que foi aberto: {f.mode}")
+    print()
     for line in f:
         print(line.rstrip())
 

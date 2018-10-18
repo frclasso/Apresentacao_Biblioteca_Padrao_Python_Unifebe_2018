@@ -2,7 +2,7 @@
 
 
 def main():
-    f = open('Nicolas-Sarcozy.txt', 'r')
+    f = open('sarcozy.txt', 'r')
     for line in f:
         print(line.rstrip())
 

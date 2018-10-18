@@ -14,3 +14,11 @@ myFile.write("First Player: 100"
 
 myFile.close()
 
+
+# exemplo2
+# Abrindo o arquivo
+fo = open('foo.txt', 'w')
+fo.write("Python is a great language.\nYeah its great!")
+
+# Fechando
+fo.close()
