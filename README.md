@@ -75,7 +75,7 @@ Bibliografia
 ------------
 + [The Python Standard Library](https://docs.python.org/3/library/index.html)
 + [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-+ [Apostila Python Módulo 1, JCAVI](drive.google.com/open?id=1d1GcjenjelR5j3TuYEOmeEOdK18LjeUs)
++ [Apostila Python Módulo 1, JCAVI](https://github.com/frclasso/apostila_python_modulo_1)
 
 ---------------------
 
