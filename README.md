@@ -6,12 +6,13 @@ Apresentação da Bilioteca padrão Python 3  para Unifebe -Brusque/SC 2018
 [JCAVI Treinamentos em T.I. - Florianópolis /SC](http://www.jcavitreinamentos.com.br/)
 
 por **Fabio Classo**
+
 [Perfil LinkedIn](https://www.linkedin.com/in/fabio-reis-classo-46881425/)
 
 Índice: 
 -------
-1. Apresentação
-2. Sintax Básica:
+1. **Apresentação**
+2. **Sintax Básica**
     - Numeros 
     - Identificadores 
     - Palavras reservadas
@@ -23,7 +24,7 @@ por **Fabio Classo**
     - Tuplas 
     - Dicionários
     - Sets 
-    - Operadores Básicos:
+    - Operadores Básicos
         - Booleanos 
         - Comparação 
         - Atribuição 
@@ -33,7 +34,7 @@ por **Fabio Classo**
     - Estruturas de repetição usando while e for 
     - Controle de fluxo - break, continue e pass 
 
-3. Python Built-in's
+3. **Python Built-in's**
     - A função dir 
     - As funções range e list
     - Verificando o tipo com type
@@ -50,7 +51,7 @@ por **Fabio Classo**
         - Op de identidade
         - Op  Lógicos
 
-4. Math
+4. **Math**
     - Trigonometria, teto ceil, piso floor e constantes 
     - Fatorial, Raiz Quadrada, pow, e MDC /CGD 
     - Números aleatórios random
@@ -58,7 +59,7 @@ por **Fabio Classo**
     - Permutação e combinação 
     - Seno, cosseno, tangente, radianos e graus
 
-5. Input and Output
+5. **Input and Output**
     - Lendo dados do teclado com input
     - Obtendo dados externos - open
     - Lendo - read, readline e readlines
@@ -66,7 +67,7 @@ por **Fabio Classo**
     - Escrevendo em arquivos com a função write
     - Manipulando arquivos compactados zip
 
-6. Date&Time
+6. **Date&Time**
     - Obtendo data atual - datetime.now
     - Formatando datas - strftime
     - Calculando datas futuras com timedelta e calendar
