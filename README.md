@@ -77,6 +77,8 @@ Bibliografia
 + [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 + [Apostila Python Módulo 1, JCAVI](drive.google.com/open?id=1d1GcjenjelR5j3TuYEOmeEOdK18LjeUs)
 
+---------------------
+
 ![Image](https://github.com/frclasso/apostila_python_modulo_1/blob/master/jcavi.png "JCAVI")
 
 
