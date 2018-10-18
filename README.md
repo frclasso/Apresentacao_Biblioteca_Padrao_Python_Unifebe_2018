@@ -11,26 +11,26 @@ Apresentação da Bilioteca padrão Python 3  para Unifebe -Brusque/SC
 
 1 Apresentação
 2 Sintax Básica:
-       -Numeros 
-       -Identificadores 
-       -Palavras reservadas
-       -Blocos de indentação 
-       -Comentários 
-       -Variáveis em Python 
-       -Strings
-       -Listas 
-       -Tuplas 
-       -Dicionários
-       -Sets 
-       -Operadores Básicos:
-            -Booleanos 
-            -Comparação 
-            -Atribuição 
-            -Associação 
-            -Identidade 
-       -Estruturas de decisão com if, elif e else 
-       -Estruturas de repetição usando while e for 
-       -Controle de fluxo - break, continue e pass 
+       - Numeros 
+       - Identificadores 
+       - Palavras reservadas
+       - Blocos de indentação 
+       - Comentários 
+       - Variáveis em Python 
+       - Strings
+       - Listas 
+       - Tuplas 
+       - Dicionários
+       - Sets 
+       - Operadores Básicos:
+            - Booleanos 
+            - Comparação 
+            - Atribuição 
+            - Associação 
+            - Identidade 
+       - Estruturas de decisão com if, elif e else 
+       - Estruturas de repetição usando while e for 
+       - Controle de fluxo - break, continue e pass 
 
 3-Python Built-in's:
         +A função dir 
