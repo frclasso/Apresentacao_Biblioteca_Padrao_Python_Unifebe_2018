@@ -89,6 +89,11 @@ Bibliografia
 ![Image](https://github.com/frclasso/apostila_python_modulo_1/blob/master/jcavi.png "JCAVI")
 
 
+Slides
+-------
+[Slides da apresentação](https://drive.google.com/open?id=1buBqqO4rY3E8jI0i88zjnmvu0mHrLO89)
+
+
 Contatos
 ------------
 

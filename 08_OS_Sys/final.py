@@ -31,7 +31,7 @@ def sleeping():
         print()
 
         #print('Sleeping...')
-        time.sleep(8)
+        time.sleep(10)
         x += 1
         print()
 
