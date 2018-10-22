@@ -1,17 +1,16 @@
 #!/usr/bin/python3
 
 
-animals = ('bear', 'bunny', 'dog', 'cat', 'velociraptor')
+for letter in 'Python':
+    print(letter)
 
-for pet in animals:
-    print(pet)
+# exemplo 3
+# animals = ('bear', 'bunny', 'dog', 'cat', 'velociraptor')
+#
+# for pet in animals:
+#     print(pet)
 
-
-
-for letter in 'Python': # traversal of a string sequence
-    print('Current Letter :', letter)
-print()
-
-fruits = ['banana', 'apple', 'mango']
-for index in range(len(fruits)):
-    print("Current fruit is: ",index, fruits[index])
+# exemplo 3
+# fruits = ['banana', 'apple', 'mango']
+# for index in range(len(fruits)):
+#     print("Current fruit is: ",index, fruits[index])

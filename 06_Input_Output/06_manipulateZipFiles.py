@@ -6,19 +6,22 @@ import zipfile
 # Open and list
 zip = zipfile.ZipFile('archive.zip', 'r')
 print(zip.namelist())  # Lista conteudo interno do arquivo zip
+print()
 
 # Metadata in the zip file
 for meta in zip.infolist():
     print(meta)
+print()
 
 # Metadata for a specific file
 info = zip.getinfo('cars.txt')
-print(info)
+print(f"Info cars.txt: {info}")
+print()
 
 # Access to files in zip folder
 print(zip.read('techBrands.txt'))
 # or
-with zip.open('techBrands.txt') as f:
+with zip.open('scores.txt') as f:
     print(f.read())
 
 # Extracting files

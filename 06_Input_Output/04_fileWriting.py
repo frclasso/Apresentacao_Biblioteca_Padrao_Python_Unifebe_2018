@@ -10,15 +10,17 @@ print('Mode: ', myFile.mode)
 # Write a file
 myFile.write("First Player: 100"
              "\nSecond Player: 200"
-             "\nThird Player: 300")
+             "\nThird Player: 300"
+             "\nFourth Player: 250"
+             "\nFifth Player: 350")
 
 myFile.close()
 
 
 # exemplo2
 # Abrindo o arquivo
-fo = open('foo.txt', 'w')
-fo.write("Python is a great language.\nYeah its great!")
-
-# Fechando
-fo.close()
+# fo = open('arquivo.txt', 'w')
+# fo.write("Python is a great language.\nYeah its great!")
+#
+# # Fechando
+# fo.close()

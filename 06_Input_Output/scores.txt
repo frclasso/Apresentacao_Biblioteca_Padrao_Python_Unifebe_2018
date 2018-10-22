@@ -1,0 +1,5 @@
+First Player: 100
+Second Player: 200
+Third Player: 300
+Fourth Player: 250
+Fifth Player: 350

@@ -8,12 +8,15 @@ now = datetime.now()
 testDate = now + timedelta(days=2) # 2 days from now
 treeWeeksAgo = now - timedelta(weeks=3)
 
-print(testDate.date()) # it's a datetime instance
-print(treeWeeksAgo.date())
+print(f"Daqui a dois dias: {testDate.date()}") # it's a datetime instance
+print()
+
+print(f"Tree weeks ago: {treeWeeksAgo.date()}")
+print()
 
 if testDate > treeWeeksAgo:
     print('Comparison works')
-
+print()
 
 # Using calendar library
 import calendar
@@ -27,3 +30,4 @@ print(cal2)
 # leap year/bissextile year
 print(calendar.isleap(1999))
 print(calendar.isleap(2000))
+

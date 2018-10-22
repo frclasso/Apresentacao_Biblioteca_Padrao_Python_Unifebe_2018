@@ -51,12 +51,16 @@ Apresentação da Bilioteca padrão Python 3  para Unifebe -Brusque/SC 2018
 4. [**Math**](https://github.com/frclasso/Apresentacao_Biblioteca_Padrao_Python_Unifebe_2018/tree/master/03_Math)
     - Trigonometria, teto ceil, piso floor e constantes 
     - Fatorial, Raiz Quadrada, pow, e MDC /CGD 
+    - Seno, cosseno, tangente, radianos e graus
+    
+5. [**Random**]()
     - Números aleatórios random
+    
+6. [**Statistics]()
     - Estística básica - Média, Mediana e Moda
     - Permutação e combinação 
-    - Seno, cosseno, tangente, radianos e graus
-
-5. [**Input and Output**](https://github.com/frclasso/Apresentacao_Biblioteca_Padrao_Python_Unifebe_2018/tree/master/04_Input_Output)
+    
+7. [**Input and Output**](https://github.com/frclasso/Apresentacao_Biblioteca_Padrao_Python_Unifebe_2018/tree/master/04_Input_Output)
     - Lendo dados do teclado com input
     - Obtendo dados externos - open
     - Lendo - read, readline e readlines
@@ -69,7 +73,10 @@ Apresentação da Bilioteca padrão Python 3  para Unifebe -Brusque/SC 2018
     - Formatando datas - strftime
     - Calculando datas futuras com timedelta e calendar
     - Criando um timer com função time.sleep
-
+    
+7.[**Módulos OS e System**]()
+    - Módulo os()
+    - Módulo system()
 
 Bibliografia
 ------------

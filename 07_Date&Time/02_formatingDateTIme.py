@@ -34,5 +34,5 @@ now = datetime.now()
 #print(now.strftime("%y %Y"))
 
 print(f"Today is {now.strftime('%B')} {now.strftime('%d')}(th/rd/nd),"
-      f" at time {now.strftime('%H:%M:%S %p')}"
-      f", Year:{now.strftime('%Y')}")
+                                           f" at time {now.strftime('%H:%M:%S %p')}"
+                                           f", Year:{now.strftime('%Y')}")

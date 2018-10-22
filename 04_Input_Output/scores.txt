@@ -1,3 +1,0 @@
-First Player: 100
-Second Player: 200
-Third Player: 300

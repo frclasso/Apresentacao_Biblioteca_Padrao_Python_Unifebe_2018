@@ -2,8 +2,6 @@
 
 # Create a timer
 
-import time
-
 #exemplo 1
 import time
 

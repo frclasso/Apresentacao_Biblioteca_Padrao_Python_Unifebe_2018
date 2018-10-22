@@ -14,7 +14,8 @@ chegar ao número 1."""
 def factorialTrad(n):
     if n == 0:
         return 1
-    else: return n * factorialTrad(n-1)
+    else:
+        return n * factorialTrad(n-1)
 
 
 print(f"fatorialTrad:{factorialTrad(3)}")

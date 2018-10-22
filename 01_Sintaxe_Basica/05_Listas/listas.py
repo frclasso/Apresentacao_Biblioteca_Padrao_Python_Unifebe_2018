@@ -71,3 +71,6 @@ print(f'Identificador de cursos4 {id(cursos4)}')
 # criando uma lista vazia
 listaVazia = []
 print(type(listaVazia))
+
+# del cursos4
+# print(cursos4)

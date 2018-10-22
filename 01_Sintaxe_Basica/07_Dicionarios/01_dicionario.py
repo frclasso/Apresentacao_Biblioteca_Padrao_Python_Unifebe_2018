@@ -4,8 +4,7 @@ aluno = {'ID': 1223,
          'Nome':'Zara',
          'Idade': 27,
          'Curso': 'Sistemas de Informação',
-         'Turno':'Noturno',
-
+         'Turno':'Noturno'
          }
 
 print(f"ID: {aluno['ID']}")

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 
+
 num = int(input("enter number"))
 
 if num % 2 == 0:
