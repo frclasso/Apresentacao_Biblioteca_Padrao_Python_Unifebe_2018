@@ -53,10 +53,10 @@ Apresentação da Bilioteca padrão Python 3  para Unifebe -Brusque/SC 2018
     - Fatorial, Raiz Quadrada, pow, e MDC /CGD 
     - Seno, cosseno, tangente, radianos e graus
     
-5. [**Random**]()
+5. [**Random**](https://github.com/frclasso/Apresentacao_Biblioteca_Padrao_Python_Unifebe_2018/tree/master/04_Random)
     - Números aleatórios random
     
-6. [**Statistics]()
+6. [**Statistics**](https://github.com/frclasso/Apresentacao_Biblioteca_Padrao_Python_Unifebe_2018/tree/master/05_Statistics)
     - Estística básica - Média, Mediana e Moda
     - Permutação e combinação 
     
