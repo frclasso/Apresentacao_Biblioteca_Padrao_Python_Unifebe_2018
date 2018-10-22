@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="900a75ac-d01f-426e-9d95-8c9569ccfc44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/08_OS_Sys/final.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_OS_Sys/final.py" afterDir="false" />
-    </list>
+    <list default="true" id="900a75ac-d01f-426e-9d95-8c9569ccfc44" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +21,10 @@
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,14 +46,14 @@
         <counts>
           <entry key="dummy" value="355" />
           <entry key="gitignore" value="15" />
-          <entry key="md" value="1223" />
+          <entry key="md" value="1273" />
           <entry key="py" value="10153" />
           <entry key="txt" value="1906" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1223" />
+          <entry key="Markdown" value="1273" />
           <entry key="PLAIN_TEXT" value="2276" />
           <entry key="Python" value="10153" />
         </counts>
@@ -71,8 +70,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="48">
-                <caret line="58" column="124" selection-start-line="58" selection-start-column="124" selection-end-line="58" selection-end-column="124" />
+              <first_editor relative-caret-position="452">
+                <caret line="97" column="12" lean-forward="true" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -142,9 +141,9 @@
         <option value="$PROJECT_DIR$/07_Date&amp;Time/04_timer.py" />
         <option value="$PROJECT_DIR$/07_Date&amp;Time/02_formatingDateTIme.py" />
         <option value="$PROJECT_DIR$/07_Date&amp;Time/03_futureTimes_calendar.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/08_OS_Sys/os_sys.py" />
         <option value="$PROJECT_DIR$/08_OS_Sys/final.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -168,11 +167,6 @@
             <path>
               <item name="Apresentacao_da_Biblioteca_Padrao_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Apresentacao_da_Biblioteca_Padrao_Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Apresentacao_da_Biblioteca_Padrao_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Apresentacao_da_Biblioteca_Padrao_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="06_Input_Output" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Apresentacao_da_Biblioteca_Padrao_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -354,7 +348,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="778" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49739584" visible="true" weight="0.22478157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -477,13 +472,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/arquivoVazio.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Input_Output/arquivoVazio.txt" />
     <entry file="file://$PROJECT_DIR$/05_Statistics/02_permutacao_combinacao.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -498,9 +487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/01_input.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Input_Output/01_input.py" />
     <entry file="file://$PROJECT_DIR$/06_Input_Output/lines.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -531,9 +518,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/05_interativeFiles.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Input_Output/05_interativeFiles.py" />
     <entry file="file://$PROJECT_DIR$/06_Input_Output/04_fileWriting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -571,12 +556,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/19_seek_method.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/20_tell_method.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Input_Output/19_seek_method.py" />
+    <entry file="file://$PROJECT_DIR$/06_Input_Output/20_tell_method.py" />
     <entry file="file://$PROJECT_DIR$/05_Statistics/01_statistics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -643,10 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
           <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1540239446000" expanded="true" signature="60:94" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -667,8 +644,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="48">
-            <caret line="58" column="124" selection-start-line="58" selection-start-column="124" selection-end-line="58" selection-end-column="124" />
+          <first_editor relative-caret-position="452">
+            <caret line="97" column="12" lean-forward="true" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>

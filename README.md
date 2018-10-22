@@ -68,13 +68,13 @@ Apresentação da Bilioteca padrão Python 3  para Unifebe -Brusque/SC 2018
     - Escrevendo em arquivos com a função write
     - Manipulando arquivos compactados zip
 
-6. [**Date&Time**](https://github.com/frclasso/Apresentacao_Biblioteca_Padrao_Python_Unifebe_2018/tree/master/05_Date%26Time)
+8. [**Date&Time**](https://github.com/frclasso/Apresentacao_Biblioteca_Padrao_Python_Unifebe_2018/tree/master/05_Date%26Time)
     - Obtendo data atual - datetime.now
     - Formatando datas - strftime
     - Calculando datas futuras com timedelta e calendar
     - Criando um timer com função time.sleep
     
-7.[**Módulos OS e System**]()
+9. [**Módulos OS e System**](https://github.com/frclasso/Apresentacao_Biblioteca_Padrao_Python_Unifebe_2018/tree/master/08_OS_Sys)
     - Módulo os()
     - Módulo system()
 
