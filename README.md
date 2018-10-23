@@ -83,7 +83,7 @@ Bibliografia
 + [The Python Standard Library](https://docs.python.org/3/library/index.html)
 + [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 + [Python Módulo 1 - JCAVI](https://github.com/frclasso/apostila_python_modulo_1)
-+ [Apostila Python Modulo 1 - Link Direto](https://drive.google.com/open?id=1d1GcjenjelR5j3TuYEOmeEOdK18LjeUs)
++ [Apostila Python Modulo 1 - Link Direto](https://drive.google.com/open?id=1IHD4ySrxkxN2iqKJ84h06FYZXbAY4iop)
 ---------------------
 
 ![Image](https://github.com/frclasso/apostila_python_modulo_1/blob/master/jcavi.png "JCAVI")
