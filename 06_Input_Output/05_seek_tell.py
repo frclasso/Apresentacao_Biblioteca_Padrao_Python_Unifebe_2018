@@ -14,15 +14,15 @@ print(str)
 print()
 
 # Checando a posicao atual
-position = fo.tell()  # exibe a posicao atual do cursor
-print("Current file position: ", position)
-print()
-
-# Colocando o ponteiro no inicio
-position = fo.seek(0)  # posiciona o cursor no inicio do arquivo
-str = fo.read(18)  # le os primeiros 18 carcteres
-print("Again... ")
-print(str)
+# position = fo.tell()  # exibe a posicao atual do cursor
+# print("Current file position: ", position)
+# print()
+#
+# # Colocando o ponteiro no inicio
+# position = fo.seek(0)  # posiciona o cursor no inicio do arquivo
+# str = fo.read(18)  # le os primeiros 18 carcteres
+# print("Again... ")
+# print(str)
 
 # Fechando
 fo.close()

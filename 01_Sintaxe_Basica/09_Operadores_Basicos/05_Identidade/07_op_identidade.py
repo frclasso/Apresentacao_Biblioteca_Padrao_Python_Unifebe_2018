@@ -1,19 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 
-a = 20
-b = 20
-print('Line 1', 'a=', a,'ID:', id(a),'\n', '\t', 'b=', b,'ID:', id(b))
 
-print(a is b)
+num = [1, 2, 3, 4, 5 ]
+#num2 = num
+#num2 = [1, 2, 3, 4, 5 ]
 
-print(id(a) == id(b))
-print()
+# print(num2 is num)
+# print(id(num))
+# print(id(num2))
 
-b = 30
-print('Line 2','a=',a,'ID:',id(a),'\n','\t', 'b=',b,'ID:',id(b))
-print(a is not b)
-print()
 
-c = a
-print(c is a)
+

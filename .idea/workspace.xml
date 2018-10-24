@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="900a75ac-d01f-426e-9d95-8c9569ccfc44" name="Default Changelist" comment="" />
+    <list default="true" id="900a75ac-d01f-426e-9d95-8c9569ccfc44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/03_Math/01_trigonometry_ceil_floor_contants_factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Date&amp;Time/04_calendarioAno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Date&amp;Time/05_timer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/03_Variaveis/01_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/03_Variaveis/01_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/04_Strings/01_format_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/04_Strings/01_format_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/04_Strings/02_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/04_Strings/02_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/05_Listas/listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/05_Listas/listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/06_Tuplas/tupla.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/06_Tuplas/tupla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/07_Dicionarios/01_dicionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/07_Dicionarios/01_dicionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/08_Sets/01_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/08_Sets/01_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/01_Bololean_logicos/op_logicos.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/01_Bololean_logicos/op_logicos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/02_Comparacao/02_op_comparacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/02_Comparacao/02_op_comparacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/04_Associacao/06_op_associacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/04_Associacao/06_op_associacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/05_Identidade/07_op_identidade.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/05_Identidade/07_op_identidade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/01_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/01_if.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/03_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/03_elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/01_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/01_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/02_for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/02_for_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/05_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/05_break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/12_loop_aninhado.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/12_loop_aninhado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Built_in/02_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Built_in/02_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Built_in/03_len_max_min.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Built_in/03_len_max_min.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Built_in/05_sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Built_in/05_sorted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Built_in/06_isinstance.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Built_in/06_isinstance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Built_in/07_enumerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Built_in/07_enumerate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Math/01_trigonometry_ceil_floor_contants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Math/02_factorial_cgd_sqrt.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Math/02_cgd_sqrt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Math/03_seno_consseno_tangente.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Math/03_seno_consseno_tangente.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Random/03_1_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Random/03_1_random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Statistics/02_permutacao_combinacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Statistics/02_permutacao_combinacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Input_Output/02_lendo_arquivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Input_Output/02_lendo_arquivo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Input_Output/03_readingFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Input_Output/03_readingFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Input_Output/05_seek_tell.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Input_Output/05_seek_tell.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Input_Output/06_manipulateZipFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Input_Output/06_manipulateZipFiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Input_Output/archive.zip" beforeDir="false" afterPath="$PROJECT_DIR$/06_Input_Output/archive.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Input_Output/arquivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Input_Output/cars.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Date&amp;Time/01_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Date&amp;Time/01_datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Date&amp;Time/02_formatingDateTIme.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Date&amp;Time/02_formatingDateTIme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Date&amp;Time/03_futureTimes_calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Date&amp;Time/03_futureTimes_calendar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Date&amp;Time/04_timer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_OS_Sys/final.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_OS_Sys/02_final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_OS_Sys/os_sys.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_OS_Sys/01_os_sys.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +57,12 @@
     <session id="-1948063006">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.36" value="1" />
@@ -24,38 +71,38 @@
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="md" value="5" />
-          <entry key="py" value="393" />
-          <entry key="txt" value="36" />
+          <entry key="py" value="549" />
+          <entry key="txt" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="5" />
-          <entry key="PLAIN_TEXT" value="37" />
-          <entry key="Python" value="393" />
+          <entry key="PLAIN_TEXT" value="46" />
+          <entry key="Python" value="549" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="355" />
+          <entry key="dummy" value="375" />
           <entry key="gitignore" value="15" />
-          <entry key="md" value="1273" />
-          <entry key="py" value="10153" />
-          <entry key="txt" value="1906" />
+          <entry key="md" value="1276" />
+          <entry key="py" value="12261" />
+          <entry key="txt" value="1988" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1273" />
-          <entry key="PLAIN_TEXT" value="2276" />
-          <entry key="Python" value="10153" />
+          <entry key="Markdown" value="1276" />
+          <entry key="PLAIN_TEXT" value="2378" />
+          <entry key="Python" value="12261" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -67,13 +114,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="452">
-                <caret line="97" column="12" lean-forward="true" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/08_OS_Sys/02_final.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,57 +140,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/02_Built_in/enumerate.py" />
-        <option value="$PROJECT_DIR$/03_Math/04_statistics.py" />
-        <option value="$PROJECT_DIR$/03_Math/06_itertools2.py" />
-        <option value="$PROJECT_DIR$/03_Math/06_seno_consseno_tangente.py" />
-        <option value="$PROJECT_DIR$/05_Date&amp;Time/03_futureTimes_calendar.py" />
-        <option value="$PROJECT_DIR$/05_Date&amp;Time/04_timer.py" />
-        <option value="$PROJECT_DIR$/04_Input_Output/lines.txt" />
-        <option value="$PROJECT_DIR$/04_Input_Output/foo.txt" />
-        <option value="$PROJECT_DIR$/04_Input_Output/02_open.py" />
-        <option value="$PROJECT_DIR$/04_Input_Output/03_readingFile.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/05_Listas/listas.py" />
-        <option value="$PROJECT_DIR$/organizacao.txt" />
-        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/07_Dicionarios/01_dicionario.py" />
-        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/01_Bololean_logicos/boolean-operators.py" />
-        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/01_Bololean_logicos/op_logicos.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/02_Blocos_comentarios/blocks.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/04_Strings/01_format_strings.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/04_Strings/02_strings.py" />
         <option value="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/03_Atribuicao/03_op_atribuicao.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/01_while.py" />
+        <option value="$PROJECT_DIR$/02_Built_in/02_type.py" />
+        <option value="$PROJECT_DIR$/02_Built_in/04_round_abs_pow.py" />
+        <option value="$PROJECT_DIR$/03_Math/02_factorial_cgd_sqrt.py" />
+        <option value="$PROJECT_DIR$/03_Math/01_trigonometry_ceil_floor_contants.py" />
+        <option value="$PROJECT_DIR$/06_Input_Output/arquivo.txt" />
+        <option value="$PROJECT_DIR$/06_Input_Output/02_lendo_arquivo.py" />
+        <option value="$PROJECT_DIR$/06_Input_Output/copy.txt" />
+        <option value="$PROJECT_DIR$/07_Date&amp;Time/01_datetime.py" />
+        <option value="$PROJECT_DIR$/07_Date&amp;Time/04_timer.py" />
+        <option value="$PROJECT_DIR$/08_OS_Sys/os_sys.py" />
+        <option value="$PROJECT_DIR$/07_Date&amp;Time/05_calendarioAno.py" />
+        <option value="$PROJECT_DIR$/08_OS_Sys/final.py" />
+        <option value="$PROJECT_DIR$/organizacao.txt" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/06_Tuplas/tupla.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/01_Bololean_logicos/op_logicos.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/02_Comparacao/02_op_comparacao.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/04_Associacao/06_op_associacao.py" />
         <option value="$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/01_if.py" />
         <option value="$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/02_else.py" />
         <option value="$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/03_elif.py" />
-        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/04_ifs_aninhados.py" />
-        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/01_while.py" />
         <option value="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/02_for_loop.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/12_loop_aninhado.py" />
         <option value="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/05_break.py" />
-        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/07_continue.py" />
-        <option value="$PROJECT_DIR$/02_Built_in/01_range_list.py" />
-        <option value="$PROJECT_DIR$/02_Built_in/06_isinstance.py" />
-        <option value="$PROJECT_DIR$/02_Built_in/04_round_abs_pow.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/09_pass.py" />
+        <option value="$PROJECT_DIR$/02_Built_in/03_len_max_min.py" />
+        <option value="$PROJECT_DIR$/02_Built_in/05_sorted.py" />
         <option value="$PROJECT_DIR$/02_Built_in/07_enumerate.py" />
-        <option value="$PROJECT_DIR$/03_Math/02_factorial_cgd_sqrt.py" />
-        <option value="$PROJECT_DIR$/03_Math/03_1_random.py" />
-        <option value="$PROJECT_DIR$/05_Statistics/01_statistics.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/02_open.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/arquivos/02_lendo_arquivo.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/arquivoVazio.txt" />
-        <option value="$PROJECT_DIR$/06_Input_Output/01_criando_arquivo vazio.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/loren_ipsum.txt" />
-        <option value="$PROJECT_DIR$/06_Input_Output/03_readingFile.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/04_fileWriting.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/05_positions.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/02_lendo_arquivo.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/05_seek_tell.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/06_copiando_texto.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/08_copia_de_arquivos.py" />
-        <option value="$PROJECT_DIR$/06_Input_Output/06_manipulateZipFiles.py" />
-        <option value="$PROJECT_DIR$/07_Date&amp;Time/04_timer.py" />
+        <option value="$PROJECT_DIR$/03_Math/03_seno_consseno_tangente.py" />
         <option value="$PROJECT_DIR$/07_Date&amp;Time/02_formatingDateTIme.py" />
+        <option value="$PROJECT_DIR$/07_Date&amp;Time/04_calendarioAno.py" />
+        <option value="$PROJECT_DIR$/08_OS_Sys/02_final.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/03_Variaveis/01_variables.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/05_Listas/listas.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/07_Dicionarios/01_dicionario.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/08_Sets/01_set.py" />
+        <option value="$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/05_Identidade/07_op_identidade.py" />
+        <option value="$PROJECT_DIR$/02_Built_in/06_isinstance.py" />
+        <option value="$PROJECT_DIR$/03_Math/01_trigonometry_ceil_floor_contants_factorial.py" />
+        <option value="$PROJECT_DIR$/03_Math/02_cgd_sqrt.py" />
+        <option value="$PROJECT_DIR$/04_Random/03_1_random.py" />
+        <option value="$PROJECT_DIR$/05_Statistics/02_permutacao_combinacao.py" />
+        <option value="$PROJECT_DIR$/06_Input_Output/03_readingFile.py" />
+        <option value="$PROJECT_DIR$/06_Input_Output/05_seek_tell.py" />
+        <option value="$PROJECT_DIR$/06_Input_Output/06_manipulateZipFiles.py" />
         <option value="$PROJECT_DIR$/07_Date&amp;Time/03_futureTimes_calendar.py" />
-        <option value="$PROJECT_DIR$/08_OS_Sys/os_sys.py" />
-        <option value="$PROJECT_DIR$/08_OS_Sys/final.py" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/07_Date&amp;Time/05_timer.py" />
       </list>
     </option>
   </component>
@@ -160,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,17 +217,23 @@
             <path>
               <item name="Apresentacao_da_Biblioteca_Padrao_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Apresentacao_da_Biblioteca_Padrao_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Sintaxe_Basica" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Apresentacao_da_Biblioteca_Padrao_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Apresentacao_da_Biblioteca_Padrao_Python" type="462c0819:PsiDirectoryNode" />
               <item name="08_OS_Sys" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -211,8 +263,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.final">
-    <configuration name="01_datetime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.05_timer">
+    <configuration name="01_os_sys" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Apresentacao_da_Biblioteca_Padrao_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Date&amp;Time" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OS_Sys" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Date&amp;Time/01_datetime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OS_Sys/01_os_sys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_formatingDateTIme" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02_final" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Apresentacao_da_Biblioteca_Padrao_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Date&amp;Time" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OS_Sys" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Date&amp;Time/02_formatingDateTIme.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OS_Sys/02_final.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="final" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_calendarioAno" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Apresentacao_da_Biblioteca_Padrao_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,11 +335,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OS_Sys" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Date&amp;Time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OS_Sys/final.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Date&amp;Time/04_calendarioAno.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +348,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="os_sys" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05_timer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Apresentacao_da_Biblioteca_Padrao_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,11 +356,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OS_Sys" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Date&amp;Time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OS_Sys/os_sys.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Date&amp;Time/05_timer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,19 +370,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.01_datetime" />
-      <item itemvalue="Python.02_formatingDateTIme" />
       <item itemvalue="Python.03_futureTimes_calendar" />
-      <item itemvalue="Python.os_sys" />
-      <item itemvalue="Python.final" />
+      <item itemvalue="Python.04_calendarioAno" />
+      <item itemvalue="Python.01_os_sys" />
+      <item itemvalue="Python.02_final" />
+      <item itemvalue="Python.05_timer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.final" />
-        <item itemvalue="Python.os_sys" />
+        <item itemvalue="Python.05_timer" />
+        <item itemvalue="Python.02_final" />
+        <item itemvalue="Python.01_os_sys" />
+        <item itemvalue="Python.04_calendarioAno" />
         <item itemvalue="Python.03_futureTimes_calendar" />
-        <item itemvalue="Python.02_formatingDateTIme" />
-        <item itemvalue="Python.01_datetime" />
       </list>
     </recent_temporary>
   </component>
@@ -356,8 +408,8 @@
       <window_info id="Favorites" order="2" sideWeight="0.5026042" side_tool="true" weight="0.29246795" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32944608" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.483965" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398773" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6399417" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39795917" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -393,261 +445,245 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/09_pass.py">
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/01_Numeros/01_numeros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/03_Variaveis/02_variables.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/11_while_autenticacao.py">
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/05_Listas/listas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="90" column="15" lean-forward="true" selection-start-line="90" selection-start-column="15" selection-end-line="90" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/06_Tuplas/tupla.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/04_Strings/02_strings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/04_Strings/01_format_strings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/07_Dicionarios/01_dicionario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="43" lean-forward="true" selection-start-line="40" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/08_Sets/01_set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="47" column="22" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/01_Bololean_logicos/op_logicos.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/02_Comparacao/02_op_comparacao.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/03_Atribuicao/03_op_atribuicao.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/04_Associacao/06_op_associacao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/09_Operadores_Basicos/05_Identidade/07_op_identidade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/01_if.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/02_else.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/03_elif.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/10_Estruturas_de_decisao/04_ifs_aninhados.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/01_while.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/02_for_loop.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/03_while_else.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/04_for_else.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/05_break.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/09_pass.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/12_loop_aninhado.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Sintaxe_Basica/11_Estruturas_de_repeticao/10_while_fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Built_in/02_numberedContestants.py" />
-    <entry file="file://$PROJECT_DIR$/02_Built_in/03_len_max_min.py">
+    <entry file="file://$PROJECT_DIR$/02_Built_in/01_range_list.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/02_Built_in/02_type.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_Built_in/01_range_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/02_Built_in/03_len_max_min.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/02_Built_in/04_round_abs_pow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Built_in/05_sorted.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/02_Built_in/06_isinstance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="437">
+          <caret line="23" lean-forward="true" selection-start-line="20" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02_Built_in/07_enumerate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        <state relative-caret-position="57">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Math/01_trigonometry_ceil_floor_contants.py">
+    <entry file="file://$PROJECT_DIR$/03_Math/01_trigonometry_ceil_floor_contants_factorial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        <state relative-caret-position="601">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_Math/02_factorial_cgd_sqrt.py">
+    <entry file="file://$PROJECT_DIR$/03_Math/02_cgd_sqrt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="36" column="36" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="36" selection-end-column="36" />
+        <state relative-caret-position="601">
+          <caret line="37" lean-forward="true" selection-start-line="20" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_Math/03_seno_consseno_tangente.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="-672">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_Random/03_random_randint.py" />
     <entry file="file://$PROJECT_DIR$/04_Random/03_1_random.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        <state relative-caret-position="601">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="33" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/arquivoVazio.txt" />
+    <entry file="file://$PROJECT_DIR$/05_Statistics/01_statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05_Statistics/02_permutacao_combinacao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="12" selection-start-line="17" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/loren_ipsum.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/01_input.py" />
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/lines.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/sarcozy.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/scores.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/foo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="19" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06_Input_Output/01_criando_arquivo vazio.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/organizacao.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/05_interativeFiles.py" />
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/04_fileWriting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/copy-lines.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/copy.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/techBrands.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/arquivo.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/06_Input_Output/02_lendo_arquivo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/06_Input_Output/03_readingFile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        <state relative-caret-position="893">
+          <caret line="47" lean-forward="true" selection-start-line="32" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/19_seek_method.py" />
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/20_tell_method.py" />
-    <entry file="file://$PROJECT_DIR$/05_Statistics/01_statistics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_Date&amp;Time/04_timer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_Date&amp;Time/02_formatingDateTIme.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_Date&amp;Time/01_datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/open_sarcozy_text.py">
+    <entry file="file://$PROJECT_DIR$/06_Input_Output/04_fileWriting.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/08_criando_copia_de_arquivos.py">
+    <entry file="file://$PROJECT_DIR$/06_Input_Output/05_seek_tell.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_Date&amp;Time/03_futureTimes_calendar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="16" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06_Input_Output/06_copiando_texto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_Input_Output/05_seek_tell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_OS_Sys/techBrands.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_OS_Sys/final.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06_Input_Output/06_manipulateZipFiles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="23" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_OS_Sys/os_sys.py">
+    <entry file="file://$PROJECT_DIR$/06_Input_Output/08_criando_copia_de_arquivos.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Date&amp;Time/01_datetime.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Date&amp;Time/02_formatingDateTIme.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="-235" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Date&amp;Time/03_futureTimes_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="20" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="452">
-            <caret line="97" column="12" lean-forward="true" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/07_Date&amp;Time/04_calendarioAno.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Date&amp;Time/05_timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="7" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_OS_Sys/01_os_sys.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_OS_Sys/02_final.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

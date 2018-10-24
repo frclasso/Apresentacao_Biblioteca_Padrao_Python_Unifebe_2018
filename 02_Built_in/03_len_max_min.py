@@ -7,6 +7,3 @@ print(min(x))
 
 print()
 y = ['z','a', 'd', 'c', 'b']
-print(len(y))
-print(max(y))
-print(min(y))

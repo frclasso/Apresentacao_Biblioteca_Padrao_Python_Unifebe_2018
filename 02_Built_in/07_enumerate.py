@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-x = ('cat', 'dog','rabbit', 'monkey', 'bird')
-for i, v in enumerate(x):
+animals = ('cat', 'dog','rabbit', 'monkey', 'bird')
+for i, v in enumerate(animals):
     print(f'{i}:{v}')

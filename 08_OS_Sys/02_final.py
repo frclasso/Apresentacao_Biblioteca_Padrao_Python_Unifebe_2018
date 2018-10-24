@@ -1,13 +1,14 @@
 import os
 import time
 import sys
+from datetime import datetime
 
 
 def sleeping():
     x = 0
     while x < 5:
         print()
-        print('Calling...')
+        print('Coletando informações...')
         print()
         # Usuarios e grupos
         print("Exibindo informações de usuário e grupos")
@@ -25,15 +26,21 @@ def sleeping():
         v = sys.version_info
         print('Python version {}.{}.{}'.format(*v))
 
-        print(sys.platform) # Darwin is an open-source Unix-like operating system
+        w = (sys.platform).capitalize()
+        print(f"Plataforma: {w}")
 
-        print(os.name) # posix, Portable Operating System Interface
+        z = (os.name).capitalize()
+        print(f"OS name: {z}")
         print()
 
-        #print('Sleeping...')
-        time.sleep(10)
+        print('Próxima atualização em 10 segundos')
+        time.sleep(7)
         x += 1
         print()
 
 
 sleeping()
+print('*** Programa encerrado automaticamente ***')
+now = datetime.now()
+print()
+print(f"<<< Ultima atualizacaoem >>> {now.date()} {now.hour}:{now.minute}")

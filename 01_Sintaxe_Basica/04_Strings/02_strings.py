@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 str  ="Hello Python"
-# print(str)
+#print(str)
+#print((str + " 2018") * 2)
 # print(str[0]) # indexando, imprime primeiro elemento
 # print(str[1]) # indexando, imprime segundo elemento
 # print(str[-1]) # indexando, imprime ultimo elemento
@@ -36,9 +37,9 @@ the variable assignment will also show up.
 #s = 'This is a long string with a bunch of words in it.'
 
 # extrair palavras do texto e salvar em uma lista
-listaPalavras = str3.split()
-print(listaPalavras)
-
-
-s3 = str3.split(', ')
-print(s3)
+# listaPalavras = str3.split()
+# print(listaPalavras)
+#
+#
+# s3 = str3.split(', ')
+# print(s3)

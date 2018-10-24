@@ -9,9 +9,6 @@ print(f'a == b: {a == b}')
 print(f'a != b: {a != b}')
 print(f'a < b: {a < b}')
 print(f'a > b: {a > b}')
-
-a, b = b, a  # values of a and b swapped. a becomes 10, b becomes 21
-
 print(f'a <= b: {a <= b}')
-print(f'b >= a: {b >= a}')
+print(f'b >= a: {a >= b}')
 

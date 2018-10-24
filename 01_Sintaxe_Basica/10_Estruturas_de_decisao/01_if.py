@@ -2,9 +2,9 @@
 
 
 x = 1
-y= 2
+y = 2
 if x > y:
-    print("x é o maior")
+    print("y é o maior")
 
 #
 # var1 = 1 # qualquer valor difrente de zero = True

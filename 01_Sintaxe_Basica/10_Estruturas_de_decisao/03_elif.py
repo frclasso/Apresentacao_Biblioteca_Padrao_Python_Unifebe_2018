@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 
-x = 1
+x = 2
 y = 2
 if x > y:
     print("x é o maior")

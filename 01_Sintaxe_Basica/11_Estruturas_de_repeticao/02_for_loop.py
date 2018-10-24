@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 
-for letter in 'Python':
-    print(letter)
+for letra in 'Python':
+    print(letra)
 
 # exemplo 3
 # animals = ('bear', 'bunny', 'dog', 'cat', 'velociraptor')

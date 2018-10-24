@@ -53,5 +53,13 @@ print()
 """math.degrees(x)
 Convert angle x from radians to degrees."""
 print("Degrees")
-print("Degrees 0.05235987755982989 {:.1f}".format(math.degrees(0.05235987755982989)))
-print("Degrees -0.05235987755982989 {:.1f}".format(math.degrees(-0.05235987755982989)))
+print("Degrees 0.05235987755982989  ==> {:.1f}".format(math.degrees(0.05235987755982989)))
+print("Degrees -0.05235987755982989  ==> {:.1f}".format(math.degrees(-0.05235987755982989)))
+
+
+
+# Degrees and Radians
+# print(math.radians(360)) # convert degrees to radians
+# print(math.pi*2) # How many radians has a full circle
+# print(math.degrees(math.pi*2)) # convert radians to degrees
+
