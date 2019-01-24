@@ -3,8 +3,6 @@
 Apresentação da Bilioteca padrão Python 3  para Unifebe -Brusque/SC 2018
 ====================================================================
 
-[JCAVI Treinamentos em T.I. - Florianópolis /SC](http://www.jcavitreinamentos.com.br/)
-
 
 Índice: 
 -------
@@ -84,8 +82,6 @@ Bibliografia
 + [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 ---------------------
 
-![Image](https://github.com/frclasso/apostila_python_modulo_1/blob/master/jcavi.png "JCAVI")
-
 
 Slides
 -------
@@ -94,12 +90,6 @@ Slides
 
 Contatos
 ------------
-
-**JCAVI**
- 
-- https://www.jcavitreinamentos.com.br/
- 
-- https://www.facebook.com/jcavitreinamentos/
 
 **Fabio Classo**
 
